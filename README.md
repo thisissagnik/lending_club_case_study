@@ -34,6 +34,7 @@ Major Factors Influencing Loan Defaults​
 - Higher Loan Tenure​
 - Top 5 states of applicant pool​
 - Small Business and renewable Energy Business.​
+
 Our Recommendations to Lending Club
 - Prioritize high grade loans.​​
 - Scrutinize purpose, state and public bankruptcy record.​​
