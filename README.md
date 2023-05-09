@@ -34,6 +34,15 @@ Major Factors Influencing Loan Defaults​
 - Higher Loan Tenure​
 - Top 5 states of applicant pool​
 - Small Business and renewable Energy Business.​
+Our Recommendations to Lending Club
+- Prioritize high grade loans.​​
+- Scrutinize purpose, state and public bankruptcy record.​​
+- Cap loan amounts beyond >20K where the charge off is higher.​​
+- Offer reduced repayment tenure less than 60 months.​​
+- Ensure verification is complete for all loans disbursed.​​
+- Provide loans to employees with experience between 1 - 10 years.​​
+- The sub grading system needs improvement to accurately show risk of default​​
+- Disbursement of Year end or holiday season loans must be avoided.​
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -43,6 +52,7 @@ Major Factors Influencing Loan Defaults​
 - Numpy
 - Matplotlib
 - Seaborn
+- Python
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
@@ -51,7 +61,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@shah_rakesh, @thisissagnik ] - feel free to contact me!
+Created by [shah_rakesh , thisissagnik ] - feel free to contact us!
 
 
 <!-- Optional -->
