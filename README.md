@@ -62,7 +62,7 @@ Give credit here.
 
 
 ## Contact
-Created by [shah_rakesh , thisissagnik ] - feel free to contact us!
+Created by [@shah_rakesh , @thisissagnik ] - feel free to contact us!
 
 
 <!-- Optional -->
