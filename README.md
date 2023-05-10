@@ -1,5 +1,4 @@
-# Project Name
-> Lending Club Case Study.
+# Lending Club Case Study.
 
 
 ## Table of Contents
@@ -9,12 +8,12 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- What is the background of your project?
+- What is the background of your project?  
   Lending Club is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. 
-- What is the business probem that your project is trying to solve?
+- What is the business probem that your project is trying to solve?  
   The company basically wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of   default.The company can utilize this knowledge for its portfolio and risk assessment.​
   The main aim of this case study is to identify Risky Loan Applicants, thereby cutting down the amount of credit loss of the company.
-- What is the dataset that is being used?
+- What is the dataset that is being used?  
   The dataset being used is the loan data which is in CSV format.
 
 ## Conclusions
@@ -49,7 +48,7 @@ Our Recommendations to Lending Club
 - Python
 
 ## Acknowledgements
-- This project was inspired by the rate of loan defaults happening in the banking sector and the objective was to detect the most probable defaulting loan applicant.
+This project was inspired by the rate of loan defaults happening in the banking sector and the objective was to detect the most probable defaulting loan applicant.
 
 
 ## Contact
